@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shadi97kh
-- 👀 I’m interested in machine learning and computer vision.
-- 🌱 I’m currently learning and diving deeper into machine learning and supervised learning algorithms.
-- 💞️ I’m looking to collaborate on any projects relating to above areas. Just want to gain more experience.
-- 📫 How to reach me zahrakhodagholi97@gmail.com.
+- 👋 Hi, I’m Shadi, I m a computer engineering bachelor's graduate.
+- My fields of interest mostly lies within machine learning, computer vision and medical imaging.
+- 📫 How to reach me zahrakhodagholi@outlook.com.
 
 <!---
 shadi97kh/shadi97kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
